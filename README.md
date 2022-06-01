@@ -6,14 +6,14 @@ You can send e-mails in your project just like you usually do with Laravel's nat
 
 
 ## Requires
-Laravel version 8.12 or higher.
+Laravel version 9 or higher.
 
 ### Installation ###
 
 * Step 1: Install package via composer.
 
 ```bash
-composer require flexflux/laravel-elastic-email
+composer require yektadg/laravel-elastic-email
 ```
 
 * Step 2: Add your account and API keys to your **.env file**.
