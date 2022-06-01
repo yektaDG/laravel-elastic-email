@@ -12,12 +12,12 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Wouter de Berg",
-            "email": "info@wouterdeberg.nl"
+            "name": "yektadg",
+            "email": "yektadg@gmail.com"
         }
     ],
     "support": {
-        "email": "info@wouterdeberg.nl"
+            "email": "yektadg@gmail.com"
     },
     "minimum-stability": "stable",
     "autoload": {
@@ -26,6 +26,6 @@
         }
     },
     "require": {
-        "laravel/framework": "^9.0"
+        "laravel/framework": "^9.*"
     }
 }
