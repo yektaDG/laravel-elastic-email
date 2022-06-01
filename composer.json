@@ -1,5 +1,5 @@
 {
-    "name": "flexflux/laravel-elastic-email",
+    "name": "yektadg/laravel-elastic-email",
     "description": "Package to send emails with attachements via an Elastic Email Mailer.",
     "type": "library",
     "keywords": [
@@ -26,6 +26,6 @@
         }
     },
     "require": {
-        "laravel/framework": "~8.12"
+        "laravel/framework": "~8.12|~9.*"
     }
 }
